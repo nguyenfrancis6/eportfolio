@@ -690,8 +690,12 @@ SHAPES
 
 /* small phones */
 @media (max-width: 480px){
-  .tilte{
+  .title{
     font-size: 52px;
+  }
+
+  .shape {
+    display: none;
   }
 
   .header__para{
