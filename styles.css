@@ -622,6 +622,7 @@ SHAPES
 
 .shape{
   position: fixed;
+  z-index: -1;
 }
 
 .shape--0{
